@@ -6,8 +6,8 @@ View the methodology in the Matlab ppt 2 file
 
 
 
-Tempate_creation.m : Used to call the saved images of alphanumericals and save them as new template in MATLAB memory
+Template_creation.m : Used to call the saved images of alphanumericals and save them as new template in MATLAB memory
 
 Letter_detection.m : Reads the characters from input image and finds the highest matched correspondinhg alphanumerical
 
-Plate_detection.m  : Process the image and calls the above 2 M-files to detect the number
+Plate_detection.m  : Process the image and calls the Letter_detection.mLetter_detection.m and Template_detection.m M-files to detect the number
