@@ -1,7 +1,7 @@
 # Image-proccessing-matlab-plate-detection
 Given an image, you can preprocess it, do edge detection and remove noise . 
 Objective of this project is to recognize vehicle number plate license .
-View the methodology in the ppt file given
+View the methodology in the Matlab ppt 2 file 
 
 
 
