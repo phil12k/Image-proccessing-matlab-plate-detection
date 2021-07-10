@@ -10,4 +10,4 @@ Template_creation.m : Used to call the saved images of alphanumericals and save 
 
 Letter_detection.m : Reads the characters from input image and finds the highest matched correspondinhg alphanumerical
 
-Plate_detection.m  : Process the image and calls the Letter_detection.mLetter_detection.m and Template_detection.m M-files to detect the number
+Plate_detection.m  : Process the image and calls the Letter_detection.m and Template_detection.m M-files to detect the number
